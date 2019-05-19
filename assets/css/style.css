@@ -23,7 +23,9 @@ h1,
 h2,
 h3,
 p {
-  margin-bottom: 20px;
+  margin-bottom: 40px;
+  margin-right: 5px;
+  background: rgb(235, 204, 192);
 }
 
 p:last-child {
@@ -129,9 +131,9 @@ h3, h2 {
   width: 100%;
   max-width: 960px;
   padding: 30px;
-  margin: 0 0 40px;
+  margin: 0 0 4px;
   background: rgb(235, 204, 192);
-  border: 1px solid #505b68;
+  border: 0px solid #505b68;
 }
 
 /* portfolio page */
@@ -174,6 +176,8 @@ h3, h2 {
   height: auto;
   margin-top: 10px;
   margin-right: 25px;
+  margin-left: 5px;
+  background: rgb(235, 204, 192);
 }
 
 /* contact page */
